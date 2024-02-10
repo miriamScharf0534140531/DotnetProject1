@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightWatchers", "WeightWatchers\WeightWatchers.csproj", "{C2C649D4-BAD4-40B5-BCBB-DB693BE3E42E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controller", "Controller", "{D901BAF9-7D6B-4F7A-9403-59D1FFE684E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{C19C4073-8742-44ED-AA08-7BFA516B884B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{C5961B0D-2DB2-423F-B3B5-F5414659A93C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber.core", "Subscriber.core\Subscriber.core.csproj", "{954DA975-EAF6-45D2-B11A-E2BD72FAD073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber.Data", "Subscriber.Data\Subscriber.Data.csproj", "{895AC587-6D9C-49A4-98FA-4ABDE1107B68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber.BL-Services", "Subscriber.Services-BL\Subscriber.BL-Services.csproj", "{BA2EDDCA-09DC-4212-BB0E-9665A5F21482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber.DAL", "Subscriber.DAL\Subscriber.DAL.csproj", "{85E7F7C5-E091-4181-9580-CA76743DFF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2C649D4-BAD4-40B5-BCBB-DB693BE3E42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C649D4-BAD4-40B5-BCBB-DB693BE3E42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C649D4-BAD4-40B5-BCBB-DB693BE3E42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C649D4-BAD4-40B5-BCBB-DB693BE3E42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954DA975-EAF6-45D2-B11A-E2BD72FAD073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954DA975-EAF6-45D2-B11A-E2BD72FAD073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954DA975-EAF6-45D2-B11A-E2BD72FAD073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954DA975-EAF6-45D2-B11A-E2BD72FAD073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895AC587-6D9C-49A4-98FA-4ABDE1107B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895AC587-6D9C-49A4-98FA-4ABDE1107B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895AC587-6D9C-49A4-98FA-4ABDE1107B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895AC587-6D9C-49A4-98FA-4ABDE1107B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2EDDCA-09DC-4212-BB0E-9665A5F21482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2EDDCA-09DC-4212-BB0E-9665A5F21482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2EDDCA-09DC-4212-BB0E-9665A5F21482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2EDDCA-09DC-4212-BB0E-9665A5F21482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E7F7C5-E091-4181-9580-CA76743DFF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E7F7C5-E091-4181-9580-CA76743DFF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E7F7C5-E091-4181-9580-CA76743DFF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E7F7C5-E091-4181-9580-CA76743DFF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2C649D4-BAD4-40B5-BCBB-DB693BE3E42E} = {D901BAF9-7D6B-4F7A-9403-59D1FFE684E5}
+		{954DA975-EAF6-45D2-B11A-E2BD72FAD073} = {C19C4073-8742-44ED-AA08-7BFA516B884B}
+		{895AC587-6D9C-49A4-98FA-4ABDE1107B68} = {C19C4073-8742-44ED-AA08-7BFA516B884B}
+		{BA2EDDCA-09DC-4212-BB0E-9665A5F21482} = {C5961B0D-2DB2-423F-B3B5-F5414659A93C}
+		{85E7F7C5-E091-4181-9580-CA76743DFF7E} = {C5961B0D-2DB2-423F-B3B5-F5414659A93C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B28B5A-1641-426C-836F-37C554C19021}
+	EndGlobalSection
+EndGlobal

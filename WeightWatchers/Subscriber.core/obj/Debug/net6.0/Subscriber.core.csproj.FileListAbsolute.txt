@@ -1,0 +1,17 @@
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\bin\Debug\net6.0\Subscriber.core.deps.json
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\bin\Debug\net6.0\Subscriber.core.runtimeconfig.json
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\bin\Debug\net6.0\Subscriber.core.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\bin\Debug\net6.0\Subscriber.core.pdb
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\Subscriber.core.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\Subscriber.core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\Subscriber.core.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\Subscriber.core.AssemblyInfo.cs
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\Subscriber.core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\Subscriber.core.csproj.CopyComplete
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\Subscriber.core.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\refint\Subscriber.core.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\Subscriber.core.pdb
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\Subscriber.core.genruntimeconfig.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.core\obj\Debug\net6.0\ref\Subscriber.core.dll

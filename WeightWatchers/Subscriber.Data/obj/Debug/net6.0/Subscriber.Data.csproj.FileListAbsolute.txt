@@ -1,0 +1,14 @@
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\bin\Debug\net6.0\Subscriber.Data.deps.json
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\bin\Debug\net6.0\Subscriber.Data.runtimeconfig.json
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.AssemblyInfo.cs
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\refint\Subscriber.Data.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.genruntimeconfig.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\ref\Subscriber.Data.dll

@@ -1,0 +1,12 @@
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\bin\Debug\net6.0\Subscriber.Services-BL.deps.json
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\bin\Debug\net6.0\Subscriber.Services-BL.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\bin\Debug\net6.0\Subscriber.Services-BL.pdb
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\obj\Debug\net6.0\Subscriber.Services-BL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\obj\Debug\net6.0\Subscriber.Services-BL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\obj\Debug\net6.0\Subscriber.Services-BL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\obj\Debug\net6.0\Subscriber.Services-BL.AssemblyInfo.cs
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\obj\Debug\net6.0\Subscriber.Services-BL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\obj\Debug\net6.0\Subscriber.Services-BL.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\obj\Debug\net6.0\refint\Subscriber.Services-BL.dll
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\obj\Debug\net6.0\Subscriber.Services-BL.pdb
+Y:\Groups\Group_2\שרף  מרים\dotNet\פרויקט\WeightWatchers\Subscriber.Services-BL\obj\Debug\net6.0\ref\Subscriber.Services-BL.dll
